@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @adekunletosin2000
-- 👀 I’m interested in making real world impact with the use of data.
-- 🌱 I’m currently learning Natutral Language Processing(NLP) and Computer Vision with Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me fast @adekunletm.19@student.funaab.edu.ng, +2348147419688
-- 😄 Pronouns:
-- ⚡ Fun fact: coding and meditating
+# Hi, I'm Adekunle Tosin Moses
 
-<!---
-adekunletosin2000/adekunletosin2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Machine Learning engineer with a strong foundation in Mathematics and a growing portfolio of projects in model development, analysis, and reproducibility. I'm passionate about open-source research, transparency in AI, and using machine learning for impactful, responsible innovation.
+
+## What I Do
+- Machine Learning & Deep Learning (PyTorch, Scikit-learn)
+- Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)
+- Model Evaluation & Performance Tuning
+- Research Interests: Open Model Ecosystems, LLMs, RAG, Environmental Impact of AI
+
+## Projects
+- **FoodVision Classifier**: Building a computer vision model to classify food items (pizza, sushi, steak) using transfer learning with PyTorch. [Repo Link]
+- **Student Performance Predictor**: Created a regression model to predict student math scores based on socio-demographic data. [Repo Link]
+- **LLM Exploration Notebook**: Currently exploring transformer-based architectures and model feature comparisons. [Repo Link]
+
+## Learning Goals
+- Contribute to open-source AI research
+- Improve annotation pipelines and analysis workflows
+- Write and publish academic papers in ML and AI
+
+## Get in Touch
+- Email: adekunletosin2000@gmail.com
+- GitHub: 
+
+Let’s build responsible AI together!
