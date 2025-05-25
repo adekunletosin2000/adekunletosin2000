@@ -9,9 +9,10 @@ I'm a Machine Learning engineer with a strong foundation in Mathematics and a gr
 - Research Interests: Open Model Ecosystems, LLMs, RAG, Environmental Impact of AI
 
 ## Projects
-- **FoodVision Classifier**: Building a computer vision model to classify food items (pizza, sushi, steak) using transfer learning with PyTorch. [Repo Link]
+- **FoodVision Classifier**: Building a computer vision model to classify food items (pizza, sushi, steak) using transfer learning with PyTorch. 
+
 - **Student Performance Predictor**: Created a regression model to predict student math scores based on socio-demographic data. [Repo Link]
-- **LLM Exploration Notebook**: Currently exploring transformer-based architectures and model feature comparisons. [Repo Link]
+- **LLM Exploration Notebook**: Currently exploring transformer-based architectures and model feature comparisons. 
 
 ## Learning Goals
 - Contribute to open-source AI research
