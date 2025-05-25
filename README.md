@@ -20,6 +20,6 @@ I'm a Machine Learning engineer with a strong foundation in Mathematics and a gr
 
 ## Get in Touch
 - Email: adekunletosin2000@gmail.com
-- GitHub: 
+- GitHub: https://github.com/adekunletosin2000
 
 Let’s build responsible AI together!
