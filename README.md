@@ -1,4 +1,4 @@
-# Hi, I'm Adekunle Tosin Moses
+# Hi, I'm Tosin Adekunle
 
 I'm a Machine Learning engineer with a strong foundation in Mathematics and a growing portfolio of projects in model development, analysis, and reproducibility. I'm passionate about open-source research, transparency in AI, and using machine learning for impactful, responsible innovation.
 
